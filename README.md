@@ -3,7 +3,7 @@ Project using ReactJS, Vite,  Typescript, CssModules
 
 ## :open_file_folder: App
 
-<img src="assets/readmeFiles/igniteFeed-print.png" alt="Img print screen" />
+<img src="src/assets/readmeFiles/igniteFeed-print.png" alt="Img print screen" />
 
 </br>
 
