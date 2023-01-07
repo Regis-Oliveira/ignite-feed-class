@@ -3,11 +3,7 @@ Project using ReactJS, Vite,  Typescript, CssModules
 
 ## :open_file_folder: App
 
-<img src="assets/readmeFiles/Screenshot.png" alt="Img form register screen" />
-
-<video width="800" height="600" autoplay loop controls>
-  <source src="assets/readmeFiles/video.mp4" type="video/mp4">
-</video>
+<img src="assets/readmeFiles/igniteFeed-print.png" alt="Img print screen" />
 
 </br>
 
@@ -15,10 +11,10 @@ Project using ReactJS, Vite,  Typescript, CssModules
 
 ```bash
 # clone the repo:
-git clone hhttps://github.com/Regis-Oliveira/ignite-feed-class.git
+git clone https://github.com/Regis-Oliveira/ignite-feed-class.git
 
 # open the project:
-cd Form-exercise-SH
+cd ignite-feed-class
 
 # install the dependencies:
 npm install
@@ -31,7 +27,7 @@ npm run dev
 yarn dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Open [http://localhost:5173](http://localhost:5173) with your browser to see the result.
 
 </br>
 
