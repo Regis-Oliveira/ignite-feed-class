@@ -40,6 +40,11 @@ Open [http://localhost:5173](http://localhost:5173) with your browser to see the
 
 </br>
 
+## :fire: Credits
+  This project was created following ignite class by: [Rocketseat](https://app.rocketseat.com.br/)
+  
+</br>
+
  ## :pencil2: Contact Me
 
 - [Linkedin](www.linkedin.com/in/regis-de-oliveira-cardoso)
